@@ -1,5 +1,5 @@
 # Rubik-s-Cube-Permutations
-Usage: python rubik.py n Permutaion\\
+Usage: python rubik.py n Permutaion\n
 Where n is the number of times of execute the desired permutation.
 In Permutation moves have to be separated by a space.
 Moves are L R U D F B L' R' U' D' F' B'.
