@@ -5,7 +5,7 @@ Displays the results of Rubik's cube permutations.
 ## Usage:
 
 ```bash
-python rubik.py n permutation
+python Rubik.py n permutation
 ```
 
 Where n is the number of times of execute the desired permutation.
@@ -17,5 +17,5 @@ Moves are L R U D F B L' R' U' D' F' B'.
 ## Example 
 
 ```bash
-python rubik.py 1 L R L' R'
+python Rubik.py 1 L R L' R'
 ```
